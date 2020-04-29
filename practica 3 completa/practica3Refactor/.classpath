@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/fiore/Downloads/ingenieria de la salud/3º ing salud/2 cuatrimeste/ing software avanzada/practica 3 completa/practica3Refactor/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
